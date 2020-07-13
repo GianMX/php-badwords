@@ -1,0 +1,20 @@
+*{
+  margin: auto 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+h2 {
+  color: red;
+  padding: 10px;
+  text-decoration:underline;
+}
+p {
+  color: blue;
+  padding: 10px;
+}
+.bold {
+  color: black;
+  font-weight: bold;
+}
